@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SSU.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSU_jar</output-path>
+    <root id="archive" name="Utilities.jar">
+      <element id="module-output" name="Utilities" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/ProjectLib/javamail-1.4.7/mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/ProjectLib/mysql-connector-java-5.1.13-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
